@@ -1,6 +1,6 @@
 print('\033[1m','\33[34m')
 print("=" * 65)
-print("|\tPROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN FUNGSI\t|")
+print("|\tPROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN OOP\t|")
 print("=" * 65)
 
 dataMahasiswa = {}
